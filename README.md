@@ -6,6 +6,7 @@ Simply input the manga chapter of choice and have it downloaded into your local 
 
 Eg. Chapter 1027
 ![img.png](img.png)
+
 *WORK IN PROGRESS
 
 # Future Plans
