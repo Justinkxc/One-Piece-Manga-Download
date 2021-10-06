@@ -1,4 +1,4 @@
-# One Piece Manga Downloader
+# Download One Piece Manga Chapters! (WIP)
 
 To download all your favourite one piece chapters to have them on hand for your own perusal
  
