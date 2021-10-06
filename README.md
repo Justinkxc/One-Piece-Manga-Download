@@ -1,4 +1,4 @@
-# One Piece Manga Downloaded
+# One Piece Manga Downloader
 
 To download all your favourite one piece chapters to have them on hand for your own perusal
  
