@@ -1,6 +1,6 @@
 # Download One Piece Manga Chapters! (WIP)
 
-To download all your favourite one piece chapters to have them on hand for your own perusal
+To download all your favourite one piece chapters!
  
 Simply input the manga chapter of choice and have it downloaded into your local drive
 
